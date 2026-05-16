@@ -7,5 +7,14 @@
       ],
       "key": "H"
     }
+  ],
+  "various-complements:predictable-complements": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }
